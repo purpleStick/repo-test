@@ -1,3 +1,0 @@
-This is a plain file.
-
-This is a new line.
